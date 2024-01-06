@@ -1,6 +1,6 @@
 # Project Title
 
-A responsive web page with a countdown feature and a FAQ section built using HTML, CSS, and JavaScript.
+A responsive web page with a countdown feature and a FAQ section built using HTML, CSS, and JavaScript.This project was created as part of a technical assessment for Alpha Efficiency HR. Feel free to customize and extend it to meet your specific needs.
 
 ## Overview
 
@@ -26,4 +26,4 @@ To run the project locally, follow these steps:
 2. Open the `index.html` file in your web browser.
 3. Explore the responsive web page with the burger menu, countdown, and FAQ section.
 
-This project was created as part of a technical assessment for Alpha Efficiency HR. Feel free to customize and extend it to meet your specific needs. Happy coding!
+
