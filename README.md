@@ -1,6 +1,7 @@
 # Project Title
 
 A responsive web page with a countdown feature and a FAQ section built using HTML, CSS, and JavaScript.This project was created as part of a technical assessment for Alpha Efficiency HR. Feel free to customize and extend it to meet your specific needs.
+ [Live Preview](https://osw16.github.io/alpha-website/)
 
 ## Overview
 
